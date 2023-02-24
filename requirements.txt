@@ -1,2 +1,3 @@
+Python==3.7
 pycaret==1.0.0
 streamlit
